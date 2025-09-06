@@ -1,0 +1,6 @@
+# Ignore build artifacts and temporary files
+build/, *.rst, *.log, *.tmp, *.out, *.aux, *.toc, *.nav, *.snm, *.vrb, *.fdb_latexmk, *.fls, *.synctex.gz
+*.pdf
+*.json
+*.ipynb_checkpoints
+
