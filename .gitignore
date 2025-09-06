@@ -1,0 +1,12 @@
+# Data files
+SNIQBA-2025/Data/data_pca.csv
+SNIQBA-2025/Data/OLR_calc.csv
+
+# Notebook
+SNIQBA-2025/Notebooks/preprosessing.ipynb
+
+build/, *.rst, *.log, *.tmp, *.out, *.aux, *.toc, *.nav, *.snm, *.vrb, *.fdb_latexmk, *.fls, *.synctex.gz
+*.pdf
+*.json
+*.ipynb_checkpoints
+
